@@ -13,4 +13,8 @@ Codling moth:
 Data analysis:
 - http://seananderson.ca/2013/10/19/reshape.html
 
+Weather:
+- http://www.ncdc.noaa.gov/cdo-web/webservices/v2
+- ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt
 
+Temperature data from the Global Historical Climatology Network - Daily (GHCN-D) are in tenths of a degree C.
